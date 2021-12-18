@@ -3,9 +3,11 @@ README
 Título: dtmoney
 
 Descrição: Uma aplicação desenvolvida em React e Typescript para o controle de finanças pessoais, utilizando o Mirage simulando o backend. 
+           Esse projeto foi desenvolvido durante o curso de especialização em React, o Ignite da Rocketseat.
 
 Ferramentas, dependências e libs instaladas: React, Typescript, Axios, Styled-Components, Miraje, React-Modal, Polished.
 
+Funcionalidades: 
 Deploy: ----
 
 Rodando o projeto localmente: Faça o clone do repositório, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start.
