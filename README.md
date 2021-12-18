@@ -7,7 +7,8 @@ Descrição: Uma aplicação desenvolvida em React e Typescript para o controle 
 
 Ferramentas, dependências e libs instaladas: React, Typescript, Axios, Styled-Components, Miraje, React-Modal, Polished.
 
-Funcionalidades: 
+Funcionalidades: Adição de novas transações com calculos automaticos entre os valores de entrada e saida. 
+
 Deploy: ----
 
 Rodando o projeto localmente: Faça o clone do repositório, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start.
